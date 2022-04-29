@@ -16,7 +16,7 @@ Requerimientos técnicos ⚙️
 #
 #
 ## Muestra codigo
-[MuestraCode](https://github.com/Jhuset2003/Progrmate-Python/blob/main/SnakePy/IMG/MuestraCodigo.png)
+![MuestraCode](https://github.com/Jhuset2003/Progrmate-Python/blob/main/SnakePy/IMG/MuestraCodigo.png)
 #
 ## Muestra Game
-[Game](https://github.com/Jhuset2003/Progrmate-Python/blob/main/SnakePy/IMG/Game.png)
+![Game](https://github.com/Jhuset2003/Progrmate-Python/blob/main/SnakePy/IMG/Game.png)
